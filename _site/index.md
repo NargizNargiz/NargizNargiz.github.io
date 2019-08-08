@@ -20,7 +20,8 @@
 [TOCM]
 
 [TOC]
-#Part1: Dividing Deeper into functions
+
+# Part1: Dividing Deeper into functions
 ## Local functions
 ## Infix functions
 ## Anonymous functions
@@ -63,7 +64,7 @@
 ## Reified Generics
 ## Custom Annotations in Kotlin
 
-#Part6: Asynchronous Programming
+# Part6: Asynchronous Programming
 ## The Problem of Asynchronous Programming
 ## Coroutines in Kotlin and Coroutine Implemetation
 ## Async and Await
@@ -71,7 +72,7 @@
 ## Coroutines and Reactive Extensions
 
 
-#H1 header
+# H1 header
 ##H2 header
 
 ###H3 header
