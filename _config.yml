@@ -3,6 +3,9 @@ plugins:
 relative_links:
   enabled: true
   collections: true
+
+destination:
+  - _site
 include:
   - CONTRIBUTING.md
   - README.md
